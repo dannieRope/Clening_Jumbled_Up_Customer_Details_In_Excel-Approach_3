@@ -1,1 +1,5 @@
-# Clening_Jumbled_Up_Customer_Details_In_Excel-Approach_3
+# INTRODUCTION
+In fact, data cleaning in Microsoft Excel offers a variety of methods. In my previous attempts, I highlighted the utilization of Excel functions to cleanse this identical dataset. 
+
+However, today, I harnessed one of Excel's potent features to extract and transform the dataset, preparing it for subsequent analysis.
+
